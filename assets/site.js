@@ -1,4 +1,3 @@
-Warning: fs was declared with const; use let for reassignable variables.
 (() => {
   const menuButton = document.querySelector('.menu-toggle');
   const nav = document.querySelector('.main-nav');
